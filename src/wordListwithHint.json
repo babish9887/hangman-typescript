@@ -1,0 +1,24 @@
+{
+    "words": [
+      {"word": "computer", "hint": "Electronic device for processing data."},
+      {"word": "banana", "hint": "A yellow fruit."},
+      {"word": "jazz", "hint": "A genre of music originating in the African-American communities of New Orleans."},
+      {"word": "elephant", "hint": "A large mammal with a trunk and tusks."},
+      {"word": "pizza", "hint": "A popular Italian dish often topped with cheese, sauce, and various toppings."},
+      {"word": "oxygen", "hint": "A chemical element essential for life and respiration."},
+      {"word": "mountain", "hint": "A large landform that rises above the surrounding land."},
+      {"word": "guitar", "hint": "A musical instrument with strings typically played by strumming or plucking."},
+      {"word": "butterfly", "hint": "An insect with colorful wings."},
+      {"word": "universe", "hint": "All existing matter, energy, space, and time."},
+      {"word": "football", "hint": "A sport played between two teams of eleven players with an inflated ball."},
+      {"word": "astronaut", "hint": "A person trained to travel in space."},
+      {"word": "chocolate", "hint": "A sweet, typically brown food substance made from roasted and ground cacao seeds."},
+      {"word": "volcano", "hint": "A rupture in the Earth's crust where molten lava, ash, and gases escape."},
+      {"word": "bicycle", "hint": "A vehicle with two wheels powered by pedals."},
+      {"word": "rainbow", "hint": "A meteorological phenomenon caused by reflection, refraction, and dispersion of light."},
+      {"word": "library", "hint": "A building or room containing collections of books."},
+      {"word": "dinosaur", "hint": "An extinct reptile from the Mesozoic era."},
+      {"word": "telephone", "hint": "A communication device used to transmit sound over long distances."},
+      {"word": "sunflower", "hint": "A tall plant with a large, daisy-like flower that turns towards the sun."}
+    ]
+  }
